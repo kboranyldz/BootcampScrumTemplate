@@ -1,74 +1,56 @@
 # **Takım İsmi**
 
-Takım X
+Takım 62
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
-
+- Kadir Boran Yıldız: Team Member/Developer
+- Beyza Nur Kılıç: Scrum Master
+- Ahmet Rıfat Karademir: Team Member/Developer
+- Duha Tuyan Yılmaz: Team Member/Developer
+- Hilal Horasan: Team Member/Developer
 ## Ürün İsmi
 
---Movie App--
+--Dino Bucket--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- 2D olarak tasarladığımız bu oyun, dinazor temalı parkur mekaniklerine dayanan bir oyundur.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Yenilikçi mekanikler
+- Sevimli ve canlı temalı
+- Bir kaç bölümden oluşan rekabetçi tarz
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Aile dostu
+- 7-12 yaş 
+- Rekabet hissi severler
+- Paleontolojiye ilgi duyanlar
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Henüz discord ve whatsapp üzerinden planlama süreçlerimizi sürdürüyoruz)
 
 ---
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Oyun teması belirlendi, çeşitli mekanikler assetler vb. teknik detaylarla alakalı araştırmalar yapıldı, benzer janralardaki ürünler incelendi.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
-
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
-
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü discord/whatsapp üzerinden yapılmasına karar verdik.
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Görev dağılımızı takımımız üyelerinin birinin diğerinden daha yetkin olmadığına karar verdiğimiz için eşit ve herkesin herşeyi yapabileceği üzerine tasarladık. Çeşitli zaman kısıtları ve takım üyelerinin yoğunluğu sebebiyle oyunumuzu 2D yapmaya kadar verdik. Benzer janralardan hoşumuza giden mekanikleri toplayıp üzerine nasıl yenilikler katabilceğimizle ilgili fikirler ürettik ortalama sonuçlar çıkardık. En çok tercih edilen Trello proje yönetimi uygulamasını projemiz için kullanabileceğimizi düşündük ancak süreçte değiştirebilceğimizi konuştuk. Sprint Review katılımcıları: ......
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Toplantılarımızın daha düzenli olması gerektiğine karar verdik.
+  - Daha çok araştırma yapmamız gerektiğine karar verdik
+  - Takım üyelerimizin müsait olduğu zaman dilimleri farklılık gösterdiğinden yapılan araştırmaların whatsapp/discord üzerinden (sonradan incelenmesi için) detaylı bi şekilde aktarılması gerektiğine karar verdik.
 
 -**Diğer Notlar**:
 - N/A
